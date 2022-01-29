@@ -1,0 +1,2 @@
+execute at @s as @a if score @p player = @s player if entity @s[distance=1.2..] run scoreboard players add @p player 1
+execute at @s as @a if score @p player = @s player if entity @s[distance=1.2..] as @p run function kit:player_score

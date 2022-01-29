@@ -1,0 +1,37 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Bienvenue dans SSL",
+            "color": "dark_red",
+            "bold": true,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "Vous trouverez ici les différents succès déblocables",
+            "color": "aqua",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:experience_bottle"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "void": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:the_void"
+            }
+        }
+    },
+    "rewards": {
+        "experience": 1
+    }
+}

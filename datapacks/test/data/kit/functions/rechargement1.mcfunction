@@ -1,0 +1,52 @@
+#25
+item replace entity @a[scores={rechargement1=500}] container.1 with minecraft:player_head{display:{Name:'{"text":"25"}'},SkullOwner:{Id:[I;1471645084,-898546437,-1352928318,-287812238],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjRjMTIxZmI1NTZlMjI3MTg1NGUyYWI5YjNkYjFmN2ZlZGRlZDQ3NDlmMDA0YTg1ODQ1M2Q0MWY2MDI2MGU5NSJ9fX0="}]}}} 1
+#24
+item replace entity @a[scores={rechargement1=480}] container.1 with minecraft:player_head{display:{Name:'{"text":"24"}'},SkullOwner:{Id:[I;-251902949,-370589391,-1550286671,1427595001],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAzYzM1OTJjMDkxMDk3YTNlNTk3YWQxNTA0MDQ0YjVlNDI3ZjQ1ZTVmNDU3MTY2YzI2ODE2ZjRlODU2OTAyMCJ9fX0="}]}}} 1
+#23
+item replace entity @a[scores={rechargement1=460}] container.1 with minecraft:player_head{display:{Name:'{"text":"23"}'},SkullOwner:{Id:[I;-1187822827,961168256,-2068380723,317046307],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRmMGQ1ZjQ0YzJiNmFmYmExYTI0MTQ2YmUzYWQ0NjE2YTQ0NzgzODBjNzQxMWI4NjQ5N2Q5ODdjOGNkODU0YiJ9fX0="}]}}} 1
+#22
+item replace entity @a[scores={rechargement1=440}] container.1 with minecraft:player_head{display:{Name:'{"text":"22"}'},SkullOwner:{Id:[I;-1636768111,-657504987,-1156534535,1569606999],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWJkNjQ0M2MzYWVkMzhjZGY2OTFlZDRmYjUwMzhkMjM4MjcxZGNkY2JhMjMyMTRjMDQ2YThmYzQzODQ5N2NhIn19fQ=="}]}}} 1
+#21
+item replace entity @a[scores={rechargement1=420}] container.1 with minecraft:player_head{display:{Name:'{"text":"21"}'},SkullOwner:{Id:[I;-1332438184,993677055,-1337840480,-1844100654],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjdlNzVlMTE1YjM1NmZjY2UwYzU3NDNiZTQ0YjFjYTVhNDYzNjA2ZmJlY2FmMzU3ZGI0MWFkMjdmN2U2YzlmNCJ9fX0="}]}}} 1
+#20
+item replace entity @a[scores={rechargement1=400}] container.1 with minecraft:player_head{display:{Name:'{"text":"20"}'},SkullOwner:{Id:[I;-704842281,-388740196,-1155999546,-597362895],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJiM2MyMjQ5MmU4OWY3ZGNjNDFjYjg4MWZkYjZiMThiNTExNDA0N2Y3OTkwYzgwMGIzMWZkNDc3ZTZhMzdkOSJ9fX0="}]}}} 1
+#19
+item replace entity @a[scores={rechargement1=380}] container.1 with minecraft:player_head{display:{Name:'{"text":"19"}'},SkullOwner:{Id:[I;-1470618703,-1675606317,-1566262336,-643253722],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Q1YzVkNmU1Y2JkNTFiYWY0NDgyNWJkYjgwY2IwNzM3OWU0Mjk0ZTg5YjZkN2I0MDAxN2M4ODBhZTA5Njc0In19fQ=="}]}}} 1
+#18
+item replace entity @a[scores={rechargement1=360}] container.1 with minecraft:player_head{display:{Name:'{"text":"18"}'},SkullOwner:{Id:[I;-1589316960,1385580184,-1576725568,1267090542],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjAzYTUyMDFiOTkwYjMwMzY1ZDA5NTUwYWE2MDE5OWNmMGZkMzY1NGQ0MzUxYWNlODBkZDg2ZjhmMmY4NDhkZCJ9fX0="}]}}} 1
+#17
+item replace entity @a[scores={rechargement1=340}] container.1 with minecraft:player_head{display:{Name:'{"text":"17"}'},SkullOwner:{Id:[I;-1431150779,931744900,-2039943219,187914126],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODUxZDFkZWE2ZGI0NTEzMzkwYWJhMzgxYmZiNTAzY2NlMzQwYzg0NjhhMTQxMWE0OWIzYjExODRjYWFlODBhOCJ9fX0="}]}}} 1
+#16
+item replace entity @a[scores={rechargement1=320}] container.1 with minecraft:player_head{display:{Name:'{"text":"16"}'},SkullOwner:{Id:[I;1359751765,988823688,-1571449107,1393993995],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RlMGUzYzIxMTQxNjAyYjBhNmE4OTYzOTk5ZDIzNzZlYzIzNTg5MTRjZDJkMzIwODBmMmRiNDBjYjlkZTYyMyJ9fX0="}]}}} 1
+#15
+item replace entity @a[scores={rechargement1=300}] container.1 with minecraft:player_head{display:{Name:'{"text":"15"}'},SkullOwner:{Id:[I;-2082768139,286344318,-1991660632,1295726859],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg2NWQxNTAxNDBjNjk0MzNiNTY5NDJkZmFjOWVkM2JjY2I0YzlmZDA1YTg1M2E2OTNkODc4ZjkyOWE5MmRiNCJ9fX0="}]}}} 1
+#14
+item replace entity @a[scores={rechargement1=280}] container.1 with minecraft:player_head{display:{Name:'{"text":"14"}'},SkullOwner:{Id:[I;1392086869,-1949939292,-1276638482,-1003242495],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc3MWQ0NTMzMjhhNmUwMDQ4NmY0ZTZhNjYwODgyMTQxZjgwMDNiYWNhYzQ2MGQ5YzAxNDZjYzAwOTkzYmI4YyJ9fX0="}]}}} 1
+#13
+item replace entity @a[scores={rechargement1=260}] container.1 with minecraft:player_head{display:{Name:'{"text":"13"}'},SkullOwner:{Id:[I;1225495218,-352171643,-1773902499,559229112],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQwNDhmNGU4N2Q2YjQxZDZhNWE4YzNhNzEyYzhlYjhlNGRkMDU0Y2RmMDdmNDFhNTY4NWY2ZTFhODQzNTk3In19fQ=="}]}}} 1
+#12
+item replace entity @a[scores={rechargement1=240}] container.1 with minecraft:player_head{display:{Name:'{"text":"12"}'},SkullOwner:{Id:[I;-1047913260,253381202,-1687103301,1739341540],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTNlYjM2ODNiYmU2MDM1NDQwOTdjYmM4YjdmYWI1ZTMwMjY0MzA0NzU3NDUzYzRiZTZiZGM5NGEyZGI5NjgwMCJ9fX0="}]}}} 1
+#11
+item replace entity @a[scores={rechargement1=220}] container.1 with minecraft:player_head{display:{Name:'{"text":"11"}'},SkullOwner:{Id:[I;1113889783,-389329132,-1118088571,2099187738],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE0ODg4NzhlZWNhNDA3MTBjNWMwZTMwZGU0YTQyOGVjMDgwMDU0YjkzMjljNmY0MDJlYTcwODA5MGMwMzJlMiJ9fX0="}]}}} 1
+#10
+item replace entity @a[scores={rechargement1=200}] container.1 with minecraft:player_head{display:{Name:'{"text":"10"}'},SkullOwner:{Id:[I;-985078299,-113227088,-1747744072,-651080390],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE2ZjFiY2U1NDYxMzY4YTQwNzA3YzU0ZGMwYjg5NWJkNjE0OTllODEyMTQ1MDkzZGIzMmY5ZWIxMmMzMjk1NCJ9fX0="}]}}} 1
+#9
+item replace entity @a[scores={rechargement1=180}] container.1 with minecraft:player_head{display:{Name:'{"text":"9"}'},SkullOwner:{Id:[I;-1510035588,942427975,-1822785496,372664338],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTE3MDc3YzBjNjhjNDk2OTFhYTcwNDQzOTRhYWI5MDgzODYzOTRjM2Q0N2FhZmM1N2IwNmI4ZTMyZDE2NTZmNSJ9fX0="}]}}} 1
+#8
+item replace entity @a[scores={rechargement1=160}] container.1 with minecraft:player_head{display:{Name:'{"text":"8"}'},SkullOwner:{Id:[I;455170385,-2059059011,-1101344638,817403818],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQyNzkxNzUyZjY3YTY0NTBiOTc1ZDM1NzQxMjM1NmIwYTk5ZTM1NTVlNjdlYmRhZDJkNDAzMjYxMjliZGRhNCJ9fX0="}]}}} 1
+#7
+item replace entity @a[scores={rechargement1=140}] container.1 with minecraft:player_head{display:{Name:'{"text":"7"}'},SkullOwner:{Id:[I;1815338665,-1590080818,-1901357851,-298283805],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRjMmQ2Y2JkZmYwMGI5N2FmN2Y4Y2ZlODc2N2ZkODdjZDY1NjM5YWJkZjgzZWMxMDM5YTQ2NDE1ZTY5ZTM5OCJ9fX0="}]}}} 1
+#6
+item replace entity @a[scores={rechargement1=120}] container.1 with minecraft:player_head{display:{Name:'{"text":"6"}'},SkullOwner:{Id:[I;-643386677,-1821423472,-1362816448,479755439],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGViZjliNmE2YzRlYjBjYmZkMGEzZDM3YzM0YzQ1ODYwNjgxZjEzZjcyNzBmMTMzN2ZkMTM2YTcwMTE4OThmMCJ9fX0="}]}}} 1
+#5
+item replace entity @a[scores={rechargement1=100}] container.1 with minecraft:player_head{display:{Name:'{"text":"5"}'},SkullOwner:{Id:[I;-1389830182,1740588714,-1338804978,-1981363524],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTgxNDBlYzQ4NDU2MzFhODlmZmU4MzQ0YWU5OGQxMDQ5YjgyYzIxNTkzOTMyOTBiZDM4YThhMDA4NDY1YjNkOSJ9fX0="}]}}} 1
+#4
+item replace entity @a[scores={rechargement1=80}] container.1 with minecraft:player_head{display:{Name:'{"text":"4"}'},SkullOwner:{Id:[I;864047391,-2019867903,-1592979302,-1290896577],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzgzOWVhZjllZTA3NjcwNjA3ZDNkYTRkNmMxZDMwZmU1OWRiNTY0NThmYWQ1ZjU1YjU0MTJkNTZiM2RlYjU1OSJ9fX0="}]}}} 1
+#3
+item replace entity @a[scores={rechargement1=60}] container.1 with minecraft:player_head{display:{Name:'{"text":"3"}'},SkullOwner:{Id:[I;696540142,410076899,-1875749106,-1748175746],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk1ZTFlMmZiMmRlN2U2Mjk5YTBmNjFkZGY3ZDlhNmQxMDFmOGQ2NjRmMTk1OWQzYjY3ZGNlOGIwNDlhOGFlMSJ9fX0="}]}}} 1
+#2
+item replace entity @a[scores={rechargement1=40}] container.1 with minecraft:player_head{display:{Name:'{"text":"2"}'},SkullOwner:{Id:[I;-1878991523,-23445255,-2027659375,1700882729],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTNjYTdkN2MxNTM0ZGM2YjllZDE2NDdmOTAyNWRkZjI0NGUwMTA3ZGM4ZGQ0ZjRmMDg1MmM4MjA4MWQ2MzUwZSJ9fX0="}]}}} 1
+#1
+item replace entity @a[scores={rechargement1=20}] container.1 with minecraft:player_head{display:{Name:'{"text":"1"}'},SkullOwner:{Id:[I;153098370,-202816921,-1361315423,-533135202],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDliMzAzMDNmOTRlN2M3ODVhMzFlNTcyN2E5MzgxNTM1ZGFmNDc1MzQ0OWVhNDFkYjc0NmUxMjM0ZTlkZDJiNSJ9fX0="}]}}} 1
+
+scoreboard players remove @a[scores={rechargement1=1..}] rechargement1 1

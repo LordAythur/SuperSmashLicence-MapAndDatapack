@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Meurtrier",
+            "color": "dark_red",
+            "bold": true
+        },
+        "description": {
+            "text": "Eliminer 20 ennemis",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "kit:assassin"
+}

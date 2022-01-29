@@ -1,0 +1,1 @@
+execute at @s as @a[distance=..4,sort=nearest,limit=2,scores={takeDamage=1..}] unless score @s player = @p player run scoreboard players operation @s detect_kill = @p player

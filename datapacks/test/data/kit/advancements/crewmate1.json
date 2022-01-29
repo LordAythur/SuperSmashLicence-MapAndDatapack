@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Un vrai innocent",
+            "color": "dark_red",
+            "bold": true
+        },
+        "description": {
+            "text": "Gagner une partie sans utiliser de ventilation",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:iron_trapdoor"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "kit:crewmate"
+}

@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Imposteur",
+            "color": "dark_red",
+            "bold": true
+        },
+        "description": {
+            "text": "Tuer 2 personnes alors que les lumières sont éteintes",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:iron_sword"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "kit:crewmate"
+}

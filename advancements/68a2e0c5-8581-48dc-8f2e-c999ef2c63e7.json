@@ -1,0 +1,93 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2021-05-21 00:23:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-21 00:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-05-21 00:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2021-05-21 00:24:52 +0200"
+    },
+    "done": true
+  },
+  "kit:root": {
+    "criteria": {
+      "void": "2021-06-02 20:04:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-05-21 00:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-05-21 00:21:26 +0200"
+    },
+    "done": true
+  },
+  "kit:crewmate": {
+    "criteria": {
+      "trigger": "2021-06-02 23:14:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-05-21 00:39:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-05-21 00:21:26 +0200"
+    },
+    "done": true
+  },
+  "kit:bomberman": {
+    "criteria": {
+      "trigger": "2021-06-02 23:17:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-05-21 00:21:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2021-05-21 00:23:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2021-05-21 00:24:52 +0200"
+    },
+    "done": true
+  },
+  "kit:goku": {
+    "criteria": {
+      "trigger": "2021-06-02 23:07:47 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

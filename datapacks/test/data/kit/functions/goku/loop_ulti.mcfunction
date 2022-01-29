@@ -1,0 +1,1 @@
+scoreboard players add @e[tag=SpecialGoku] ultiGoku 1

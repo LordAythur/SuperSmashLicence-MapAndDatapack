@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Succès : Kit Link",
+            "color": "dark_red",
+            "bold": true
+        },
+        "description": {
+            "text": "Jouer le kit Link",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{display:{Name:\"{\\\"text\\\":\\\"Link\\\"}\"},SkullOwner:{Id:[I;-1115489640,27150882,-1174821086,-1975485794],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVhZjI3NTAxZmE4MTFlMjM4NTNkOTBhYzQzODNmODc2NTU0MjJmZTVhZTg0MjRlMmNjNDkzNTA3MzJkZmMifX19\"}]}}}"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "kit:kits"
+}
